@@ -577,9 +577,8 @@ for(i in 1:3){
 
 By perturbing the parameters in the demographic models above, 48 different communities can be created (Fig. 1).
 
-```{r, echo=FALSE, out.width="80%", out.height="80%", fig.cap="Parameter perturbations to obtain different communities"}
-knitr::include_graphics("outline_communities_V2.pdf")
-```
+![communities](outline_communities_V2.png)
+
 
 In all communities, effect of interspecific density is expressed relative to intraspecific density; as percent change in intraspecific density. Intraspecific density effects are negative, expect for dispersal. Survival or non-reproductive and reproductive is lower in unproductive season.
 
