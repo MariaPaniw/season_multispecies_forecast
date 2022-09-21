@@ -1463,6 +1463,15 @@ write.csv(remove.sim.clim.change,"remove.sim.csv",row.names = F)
 
 ```
 
+When we plot the outputs, we see two key results (when we compare climate-change simulaitons to the baseline): 
+
+1. Abundances of all species decrease & extinction risk for the longer-lived species increases when the mean environment worsens in the unpoductive season; and these trends are exacerbated, as expected, when the mean environment worsens across seasons. 
+
+2. The trends in (1) are most prevalent in communities where species life cycles are highly seasonal and where habitats are heterogenous
+
+3. Despite showing the weakest direct environmental sensitivity, highest extinction risks occur for the longest lived S2. This occurs largely through changes in abundances of the prey species S1. 
+
+![simulations](result_plot.png)
 
 
 
