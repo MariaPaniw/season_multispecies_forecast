@@ -1,3 +1,5 @@
+### Author: M Paniw
+
 ## S1 - PREY:
 
 Sr_w <- function(pop,env,dens,dens.bi,dens.biS2){
