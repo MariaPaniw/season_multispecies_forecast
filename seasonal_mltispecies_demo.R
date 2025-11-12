@@ -1,3 +1,4 @@
+#Functions updated 
 
 library(popbio)
 library(MASS)
