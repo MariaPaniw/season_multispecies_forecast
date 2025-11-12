@@ -1,3 +1,5 @@
+### Parameters are based on realistic know combinations 
+
 ###  Prey species
 
 vr=c("Sr_w","D","Sd","B","Snr_w","Sj_w","Tj","Tnr","Tr","Sr_s","Snr_s")
